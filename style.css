@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navbar */
+
+.nav-1{
+   
+    height: 60px;
+    
+}
+
+.cart-1{
+   color: white;
+   text-decoration: none;
+   padding-right: 100px;
+}
+.home-1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    
+}
+.card-1{
+    padding-right: 200px;
+}
+.card-3{
+    padding-left: 120px;
+}
+.navbar-2{
+    background-color: cadetblue;
+}
+
